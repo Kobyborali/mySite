@@ -1,7 +1,7 @@
 # My Site
 My first repository is dedicated to my site and the progress of its development.
  
- ![myLayout](C:\Users\vladi\Desktop\Files\mySite\layouts\mySiteJuliaLayouts.png)
+ ![myLayout](https://github.com/Kobyborali/mySite/blob/main/layouts/mySiteJuliaLayouts.png)
  
  Progress of work
 - [X] Create a website layout
