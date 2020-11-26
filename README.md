@@ -8,5 +8,6 @@ My first repository is dedicated to my site and the progress of its development.
 - [ ] Make a layout of the site
 - [ ] Make adaptive website design
 - [ ] Send a verified site for hosting
+- [ ] Develop a mobile version of the site
 
 If you want to help, then send your changes! :smiley:
