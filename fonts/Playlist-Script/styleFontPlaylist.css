@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Playlist';
+    src: local('Playlist Script'), local('Playlist-Script'),
+        url('Playlist-Script.woff2') format('woff2'),
+        url('Playlist-Script.woff') format('woff'),
+        url('Playlist-Script.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
