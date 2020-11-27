@@ -2,15 +2,17 @@
 @import url("../fonts/Playlist-Script/styleFontPlaylist.css") all;
 
 /*All*/
+body, header, main
+{
+    display: flex;
+}
+
 body
 {
     background-color: #fff;
     font-family: "Bergen Sans", sans-serif;
-}
-
-header, .mySkills, .myBio, .myPhoto
-{
-    display: flex;
+    flex-direction: column;
+    height: auto;
 }
 
 /*Header*/
@@ -39,4 +41,19 @@ header img
     height: 24px;
 }
 
+/*Main*/
+main 
+{
+    display: flex;
+    background: url("../img/linesTop.png") no-repeat fixed,
+        url("../img/markTop.png") 10% 0% no-repeat fixed,
+        #fff url("../img/botLines.png") 70% 100% no-repeat fixed;
+    flex: 1 0 auto;
+}
+
+/*Footer*/
+footer 
+{
+    background-color: gainsboro;
+}
 
