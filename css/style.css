@@ -8,6 +8,11 @@ body, header, main, footer
     width: 100%;
 }
 
+.mySkills, .myBio, .myPhoto
+{
+    width: 33%;
+}
+
 body
 {
     background-color: #fff;
@@ -52,6 +57,13 @@ main
     background: url("../img/linesTop.png") no-repeat fixed,
         url("../img/markTop.png") 20% 0% no-repeat fixed,
         #fff url("../img/botLines.png") 70% 100% no-repeat fixed;
+}
+
+th 
+{
+    text-transform: uppercase;
+    transform: rotate(-90deg);
+    background: orange;
 }
 
 /*Footer*/
